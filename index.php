@@ -1,4 +1,4 @@
 <?php
 
-echo "i am te best";
+echo "i am the best";
 ?>
